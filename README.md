@@ -26,20 +26,21 @@ Before starting the analysis, I checked the data quality in the **`smoker`** and
 - Using the `Classify` command, I confirmed that the `smoker` column does not contain incorrect values.
 
 <p align="center">
-  <img src="Insert the link to your Classify.png screenshot here" alt="Screenshot of smoker column analysis">
+  <img src="https://github.com/Zaidrawahneh/Insurance-Data-Analysis/blob/main/Classify.png?raw=true">
 </p>
 
 - Using the `Profile` command, I confirmed that the `charges` column contains only numeric data, which is essential for performing calculations.
 
 <p align="center">
-  <img src="Insert the link to your image_3f136b.png screenshot here" alt="Screenshot of charges column analysis">
+  <img src="https://github.com/Zaidrawahneh/Insurance-Data-Analysis/blob/main/profile.png?raw=true
+">
 </p>
 
 ### Step 3: Simplify the Data
 To make the analysis faster and more focused, I created a new table using the `Extract` command in ACL. This table contains only the **`smoker`** and **`charges`** columns, which are the two key variables for this analysis.
 
 <p align="center">
-  <img src="Insert the link to your image_3fec69.png screenshot here" alt="Simplified table with smoker and charges columns">
+  <img src="https://github.com/Zaidrawahneh/Insurance-Data-Analysis/blob/main/extract.png?raw=true">
 </p>
 
 ### Step 4: Analysis and Cost Comparison
