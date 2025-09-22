@@ -18,7 +18,7 @@ The following dataset from Kaggle was used: [https://www.kaggle.com/datasets/mos
 I imported the `insurance.csv` file into ACL, where the raw data was displayed.
 
 <p align="center">
-  <img src="https://github.com/YourUsername/YourRepoName/raw/main/image_400e8f.png" alt="لقطة شاشة للبيانات في ACL">
+  <img src="https://raw.githubusercontent.com/Zaidrawahneh/Insurance-Data-Analysis/4c5b02e37120f5d2666bc3cc7769e4c3ac394084/1GIT.png">
 </p>
 
 ### Step 2: Data Quality Check
