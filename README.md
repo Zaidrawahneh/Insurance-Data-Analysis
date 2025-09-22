@@ -32,9 +32,8 @@ Before starting the analysis, I checked the data quality in the **`smoker`** and
 - Using the `Profile` command, I confirmed that the `charges` column contains only numeric data, which is essential for performing calculations.
 
 <p align="center">
-  <img src="<p align="center">
-  <img src="https://github.com/YourUsername/YourRepoName/raw/main/image_400e8f.png" alt="لقطة شاشة للبيانات في ACL">
-</p>">
+  <img src="https://github.com/Zaidrawahneh/Insurance-Data-Analysis/blob/main/profile.png?raw=true">
+</p>
 </p>
 
 ### Step 3: Simplify the Data
