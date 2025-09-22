@@ -47,7 +47,7 @@ To make the analysis faster and more focused, I created a new table using the `E
 To answer my research question, I used the `Summarize` command in ACL to compare the average insurance costs between smokers and non-smokers.
 
 <p align="center">
-  <img src="Insert the link to your image_3f0448.png screenshot here" alt="Summary report screenshot">
+  <img src="https://github.com/Zaidrawahneh/Insurance-Data-Analysis/blob/main/Avg.png?raw=true">
 </p>
 
 ---
